@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav098766&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav098766" /> </p>
 
-- 🔭 I’m currently working on **on Microservices(backend) using docker, Kubernetes, AWS, Terraform, Travis CI**
+- 🔭 I’m currently working on **on Microservices(backend) using NodeJS, Typescript, Docker, Kubernetes, AWS**
 
 - 🌱 I’m currently learning Information and Communication Technology **Data Structures and Algorithms**
 
