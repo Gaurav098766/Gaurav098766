@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav098766&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav098766" /> </p>
 
-- 🔭 I’m currently working on **on Microservices(backend) using NodeJS, Typescript, Docker, Kubernetes, AWS**
+- 🔭 I’m currently working on **on Microservices(backend) using Django, Next, Typescript, Docker, AWS**
 
 - 🌱 I’m currently learning Information and Communication Technology **Data Structures and Algorithms**
 
-- 💬 Ask me about **React, Node, Typescript**
+- 💬 Ask me about **Next, Node, Typescript, Django**
 
 - 📫 How to reach me **gaurav1223344@gmail.com**
 
